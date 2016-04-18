@@ -1,1 +1,3 @@
-print ('hello')
+print ('hello wojtek')
+
+print ('ola')
